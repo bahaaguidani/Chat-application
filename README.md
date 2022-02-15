@@ -1,11 +1,7 @@
 # RE216 - Projet de programmation réseau
 
 1. [RE216 - Projet de programmation réseau](#Projet-de-programmation-reseau)
-* [Déroulement global](#déroulement-global)
-* [Contenu du depot git](#contenu-du-depot-git)
-* [Soumission des jalons](#soumission-des-jalons)
-* [Soumission finale](#soumission-finale)
-* [Evaluation](#evaluation)
+
 2. [Jalons](#jalons)
 * [Jalon 1 - Client-serveur TCP et serveur multi-clients](#jalon-1-\--client\-serveur-tcp-et-serveur-multi\-clients)
 * [Jalon 2 - Les utilisateurs](#jalon-2-\--Les-utilisateurs)
